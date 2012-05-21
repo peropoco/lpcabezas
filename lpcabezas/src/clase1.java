@@ -4,7 +4,7 @@ public class clase1 {
 	/**
 	 * @param args
 	 */
-	
+	public void metodo rama1{}
 	public void metodo clase1{}
 	
 	public static void main(String[] args) {
